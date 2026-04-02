@@ -1,7 +1,7 @@
 # Hola, soy Nelson Aravena 👋
 
 Ingeniero en Informática apasionado por el análisis de datos.
-Creo que las mejores decisiones no se toman por intuición — se toman con evidencia, y los datos son esa evidencia.
+Creo que las mejores decisiones no se toman por intuición se toman con evidencia, y los datos son esa evidencia.
 Me motiva trabajar con información para encontrar patrones, responder preguntas difíciles y ayudar a que las organizaciones actúen con mayor claridad.
 
 ---
@@ -11,7 +11,7 @@ Analizo, proceso y visualizo datos para convertirlos en información útil y acc
 Mi enfoque va desde la limpieza y exploración de datos hasta la construcción de dashboards y reportes que cualquier persona pueda entender, sin importar su nivel técnico.
 
 ### 📚 Siempre aprendiendo
-El mundo de los datos evoluciona rápido y yo con él. Me mantengo en constante aprendizaje, explorando nuevas herramientas, metodologías y buenas prácticas. Lo que aprendo, lo aplico — y cuando puedo, lo comparto.
+El mundo de los datos evoluciona rápido y yo con él. Me mantengo en constante aprendizaje, explorando nuevas herramientas, metodologías y buenas prácticas. Lo que aprendo, lo aplico y cuando puedo, lo comparto.
 
 ### 🤝 Abierto a colaborar
 Si tienes un proyecto interesante, un problema que resolver con datos, o simplemente quieres intercambiar ideas, aquí estoy. Creo que el conocimiento crece más cuando se construye en conjunto.
@@ -33,5 +33,3 @@ Si tienes un proyecto interesante, un problema que resolver con datos, o simplem
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=white)
 
 ---
-
-📫 **¿Hablamos?** → [LinkedIn](#) · [Email](#)
