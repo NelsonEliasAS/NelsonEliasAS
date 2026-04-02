@@ -1,7 +1,8 @@
 # Hola, soy Nelson Aravena 👋
 
 Ingeniero en Informática apasionado por el análisis de datos.
-Creo que las mejores decisiones no se toman por intuición — se toman con evidencia, y los datos son esa evidencia.
+Creo que las mejores decisiones no se toman por intuición — 
+se toman con evidencia, y los datos son esa evidencia.
 
 ---
 
