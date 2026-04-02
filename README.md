@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Nelson Aravena 👋
 
-<!--
-**NelsonEliasAS/NelsonEliasAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero en Informática apasionado por el análisis de datos.
+Creo que las mejores decisiones no se toman por intuición — se toman con evidencia, y los datos son esa evidencia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 ¿Qué hago?
+Analizo, proceso y visualizo datos para convertirlos en información útil y accionable.
+
+### 📚 Siempre aprendiendo
+El mundo de los datos evoluciona rápido y yo con él. Me mantengo en constante aprendizaje y comparto lo que sé.
+
+### 🤝 Abierto a colaborar
+Si tienes un proyecto interesante o simplemente quieres intercambiar ideas, aquí estoy.
+
+---
+
+📫 **¿Hablamos?** → [LinkedIn](#) · [Email](#)
