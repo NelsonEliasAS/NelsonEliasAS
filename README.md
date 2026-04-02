@@ -32,4 +32,3 @@ Si tienes un proyecto interesante o simplemente quieres intercambiar ideas, aqu�
 
 ---
 
-📫 **¿Hablamos?** → [LinkedIn](#) · [Email](#)
