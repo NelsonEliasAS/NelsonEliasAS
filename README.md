@@ -33,3 +33,4 @@ Si tienes un proyecto interesante, un problema que resolver con datos, o simplem
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=white)
 
 ---
+💻 **¿También te interesa el desarrollo web?** → [Revisa mi perfil Full-Stack aquí](https://github.com/NelsonAravena84)
